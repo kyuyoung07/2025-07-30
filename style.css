@@ -1,0 +1,131 @@
+body{
+    display: contents;
+}
+
+.nabar{
+    float: right;
+    margin: 20px;
+}
+
+.nabar-items{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+.nabar-items:hover{
+    text-decoration: underline;
+}
+
+.nabar-items-margin{
+    margin-right: 15px;
+}
+
+.main{
+    margin-top: 150px;
+    text-align: center;
+}
+
+.img{
+    width: 272px;
+    height: 92px;
+}
+
+.search-top-margin{
+    margin-top: 20px;
+}
+
+.search-icon{
+    color: #9aa0a6;
+    position: relative;
+    left: 40px;
+}
+
+.text-box{
+    width: 584px;
+    height: 46px;
+    border: 1px solid #dadce0;
+    box-shadow: 0px 3px 10px 0px rgba(31, 31, 31, 0.08);
+    border-radius: 26px;
+    padding-left: 40px;
+    padding-right: 80px;
+}
+
+.mic-icon{
+    color: var(--YLNNHc);
+    position: relative;
+    right: 80px;
+}
+
+.camera-icon{
+    color: var(--YLNNHc);
+    position: relative;
+    right: 60px;
+}
+
+.button-top-margin{
+    margin-top: 18px;
+}
+
+.button{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    color: #3c4043;
+    margin: 11px 4px;
+    padding: 0 16px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.language-top-margin{
+    margin-top: 48px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+.language{
+    text-decoration: none;
+    color: #1A0DAB;
+    font-size: small;
+    font-family: Arial, sans-serif;
+}
+
+.language:hover{
+    text-decoration: underline;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 0;
+    background: #f2f2f2;
+    width: 100%;
+}
+
+.first-line{
+    padding: 15px 30px;
+    border-bottom: 1px solid #d2d2d2;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+
+.second-line{
+    padding: 15px 30px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+.second-line-second{
+    float: right;
+}
+
+.bottom-text-decoration{
+    text-decoration: none;
+    color: #1f1f1f;
+    padding: 15px;
+}
+
+.bottom-text-decoration:hover{
+    text-decoration: underline;
+}
