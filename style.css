@@ -98,22 +98,21 @@ body{
 
 .bottom{
     position: absolute;
-    bottom: 0;
+    bottom: 0px;
     background: #f2f2f2;
     width: 100%;
 }
 
 .first-line{
     padding: 15px 30px;
-    border-bottom: 1px solid #d2d2d2;
+    border-bottom: 1px solid #dadce0;
     font-size: 15px;
-    font-family: Arial, sans-serif;
+    color : rgba(0,0,0,.54);
 }
 
 .second-line{
     padding: 15px 30px;
-    font-size: 14px;
-    font-family: Arial, sans-serif;
+    font-size: 15px;
 }
 
 .second-line-second{
@@ -122,8 +121,8 @@ body{
 
 .bottom-text-decoration{
     text-decoration: none;
-    color: #1f1f1f;
-    padding: 15px;
+    padding: 0 15px 0 0;
+    color : rgba(0,0,0,.54);
 }
 
 .bottom-text-decoration:hover{
